@@ -1,0 +1,26 @@
+body {
+  background-color: rgb(170, 238, 245);
+}
+
+h2 {
+  font-size: 45px;
+  font-weight: 700;
+  margin: 20px 0 0;
+}
+label {
+  font-size: 20px;
+  font-weight: 700;
+}
+
+button {
+  background-color: #09d2ec;
+  border: 0;
+  margin-left: 5px;
+  height: 25px;
+  border-radius: 5px;
+}
+
+button:hover {
+  background-color: #2196f3;
+  color: white;
+}
